@@ -1,0 +1,31 @@
+tipo: "persona"
+
+nombres-conocidos:
+  - nombre: "fulanito"
+    tipo: "nombre real"
+    detalle: "lo asaltamos y le robamos el documento jaja doxeado"
+  - nombre: "Xx-MenganitoGamerCrafter-xX"
+    tipo: "gta online"
+    detalle: "chitero"
+
+presencias-en-plataformas:
+  - servicio: "id discord"
+    identificador: "123456789"
+  - servicio: "cuenta steam"
+    identificador: "987654321"
+
+alineamiento-diplomatico:
+  relacion: "negativa / hostil / lo que sea, es formato libre. vacío = neutral"
+  detalle: "grifeó a [[otra comunidad]] y es mala persona, afiliado con clan de grifeadores"
+
+relaciones:
+  - entidad: "[[clan de grifeadores numero 19238]]"
+    tipo: "miembro, participante"
+    detalle: "tu vieja"
+  - entidad: "[[otra comunidad]]"
+    tipo: "negativa"
+    detalle: "hostil, el grupo los grifeó"
+
+detalle: "lo que sea que haya que aclarar o ilustrar o datos extra"
+
+origen: "[[campaña barotrauma pública 3]]"

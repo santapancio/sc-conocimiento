@@ -1,0 +1,16 @@
+detalle: "detalles"
+
+propiedad: "SC"
+
+control: "[[persona]] o lo que sea"
+
+operacion: "[[delegación]] o lo que sea"
+
+estado: "disponible"
+
+estado-detalle: "disponible hasta X fecha"
+
+etiquetas:
+  - "infraestructura"
+  - "acceso"
+  - "producto físico"

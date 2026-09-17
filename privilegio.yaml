@@ -1,0 +1,9 @@
+detalle: "detalle sobre el privilegio"
+
+poseedores:
+  - "[[persona1]]"
+  - "[[persona2]]"
+
+control: "quien controla el [[servidor]], el día de la fecha siendo esa persona [[persona X]]"
+
+origen: "se lo dio [[x persona]] en [[este evento del historial]]"

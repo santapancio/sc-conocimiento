@@ -1,0 +1,15 @@
+responsabilidades:
+  - "responsabilidad-ejemplo1"
+  - "responsabilidad 2"
+
+personas-asignadas:
+  primaria: "[[persona-ejemplo1]]"
+  secundarias:
+    - "[[persona-ejemplo2]]"
+    - "[[persona-ejemplo3]]"
+
+delegaciones:
+  - "[[delegacion 1]]"
+  - "[[delegacion 2]]"
+
+detalle: "cualquier cosa relevante. pueden hacerse [[referencias]], tal como en la mayoría de los campos"
