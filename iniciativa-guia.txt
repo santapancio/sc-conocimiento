@@ -1,0 +1,54 @@
+cómo funcionan las delegaciones:
+
+- son items individuales en una pirámide
+- hay uno que es el gol principal de lo que se quiere hacer
+  - las delegaciones debajo de eso son fracciones más pequeñas del mismo, y así sucesivamente
+- cada una puede tener a una o más personas asignadas a ella, pero sólo puede haber una persona primaria, cuya única diferencia es tener autoridad final
+- cada persona puede establecer, desde ahí y hacia abajo, la estructura que usan para organizarse con total libertad:
+    - las delegaciones debajo de la suya y cómo se estructuran
+    - las personas asignadas a él
+        - las personas y su trabajo para asignarlos a las delegaciones son recursos en manos del sistema de recursos, y se piden al igual que cualquier otro
+            - por algo recursos humanos se llama recursos humanos y por algo hay una etiqueta de "trabajo" en la taxonomía de recursos
+            - suena deshumanizante, pero es para forzar que haya un contrato expreso entre los que dan su trabajo voluntario y la organización, para evitar que haya malentendidos, abusos o injusticias
+    - es posible crear delegaciones y ponerse a uno mismo a cargo de ellas. es funcionalmente lo mismo que no hacerlo, pero se puede y se recomienda para organizarse
+- una persona asignada a una delegación tiene autoridad final sobre todo lo que está debajo de la misma
+- una persona asignada a una delegación sólo debe actuar en función de lo que delimita la misma
+- mientras cada archivo tenga un nombre único, la estructura de carpetas puede ser como uno quiera
+  - recomendamos usar una estructura de carpetas para este sistema y no tener todo en un solo directorio, ya que esta estructura es naturalmente jerárquica
+
+estructura de delegaciones de ejemplo:
+
+- manejar un restaurante
+  - responsabilidades
+    - mantener el restaurante funcionando y todo lo que eso implica
+    - ganar dinero para mantener el restaurante a flote
+  - personas asignadas
+    - roberto
+  - delegaciones
+    - atender a los clientes
+      - responsabilidades
+        - ir a las mesas y prestar atención al cliente
+        - entregar la comida y cobrar el pago
+        - servicio a la mesa y al cliente en general
+      - personas asignadas
+        - alicia (primaria)
+        - alexander
+        - francisco
+      - delegaciones
+        - atender el mostrador y la barra
+          - etc etc
+        - atender las mesas (mozo)
+          - etc etc
+    - cocinar la comida
+      - responsabilidades
+        - hacer que la comida sea preparada y llegue a los clientes
+        - asegurar la limpieza de la cocina
+      - personas asignadas
+        - lautaro (primario)
+        - maría
+      - delegaciones
+        - estación de postres
+          - responsabilidades
+            - hacer postres
+          - personas asignadas
+            - roberto
