@@ -1,0 +1,17 @@
+detalle: >
+  Grupo de steam comunitario
+  Actualmente no hacemos mucho con él, pero en el futuro podría servir de algo
+  Habría que cambiarle el nombre a SC
+
+estado: "completado: operando"
+
+etiquetas:
+  - "servicio"
+  - "infraestructura"
+  - "actividad"
+  - "información"
+  - "contenido"
+
+sub-iniciativas:
+  - "sub-iniciativa A"
+  - "sub-iniciativa B"
