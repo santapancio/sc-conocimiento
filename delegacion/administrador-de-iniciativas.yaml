@@ -1,0 +1,30 @@
+responsabilidades:
+  - "mantener el registro de iniciativas"
+  - "mantener actualizada la información de las iniciativas"
+  - "mantener y hacer avanzar las iniciativas"
+  - "proponer iniciativas cuando corresponda"
+  - "crear iniciativas"
+  - "pausar iniciativas cuando corresponda"
+  - "abandonar iniciativas cuando corresponda"
+  - "organizar las iniciativas"
+  - "mantener una estructura coherente entre iniciativas y sus sub-iniciativas"
+  - "asignar responsables a iniciativas"
+  - "supervisar el estado general de las iniciativas"
+  - "detectar iniciativas que estén estancadas o necesiten atención"
+  - "facilitar que las iniciativas dispongan de los recursos necesarios"
+  - "coordinar cuestiones que involucren varias iniciativas"
+  - "mantener conocimiento general sobre lo que está haciendo SC"
+  - "comunicar el estado general de las iniciativas"
+  - "ayudar a convertir propuestas en iniciativas concretas cuando corresponda"
+  - "asegurar que las iniciativas abandonadas, pausadas y completadas queden correctamente registradas"
+  - "supervisar que cada iniciativa tenga responsables cuando sea necesario"
+
+personas-asignadas:
+  - "Santa"
+
+delegaciones:
+  - "[[lider-iniciativa-discord-comunitario]]"
+  - "[[lider-iniciativa-wiki-rentry]]"
+  - "[[lider-iniciativa-grupo-steam]]"
+
+detalle: "administra el conjunto de iniciativas de SC. las responsabilidades concretas de cada iniciativa se encuentran en la iniciativa correspondiente."

@@ -1,0 +1,19 @@
+responsabilidades:
+  - "agregar las personas y los datos que conocemos a la lista cuando entran o se involucran en la comunidad"
+  - "mantener actualizada la información básica de las personas conocidas por SC"
+  - "incorporar grupos y organizaciones relevantes a la lista"
+  - "mantener las relaciones conocidas entre personas y entidades cuando corresponda"
+  - "actualizar la información de procedencia y presencia relevante en plataformas cuando sea necesario"
+  - "mantener la lista organizada y consistente"
+  - "detectar registros duplicados o información evidentemente desactualizada"
+  - "temporalmente: actualizar la lista que está desactualizada"
+  - "temporalmente: incorporar grupos a la lista"
+  - "temporalmente: transicionar la lista a la nueva base de datos"
+  - "comunicar información que requiera revisión o corrección"
+
+personas-asignadas:
+  - ""
+
+delegaciones: []
+
+detalle: "delegación encargada actualmente de la transición y mantenimiento del sistema de personas. sus responsabilidades temporales deberían revisarse una vez terminada la transición a la nueva base de datos."
