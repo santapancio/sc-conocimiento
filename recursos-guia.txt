@@ -18,7 +18,7 @@ sistema de recursos:
 - la parte de las negociaciones y el aceptar / rechazar ofertas de contribuciones es un aspecto separado de este sistema
 
 campos
-- etiquetas (pueden haber varias)
+- etiquetas (pueden haber varias. en este campo, no usar otra cosa que no sea alguna de éstas)
     - dinero
     - software
     - producto físico (incluye hardware informático)
