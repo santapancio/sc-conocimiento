@@ -1,0 +1,65 @@
+sistema de recursos:
+- cada objeto es un recurso del que dispone la organización
+- pueden haber condiciones respecto al uso de estos recursos
+- propiedad, control y operación son tres conceptos diferentes
+- trabajo pago no es contribución, ya que el valor neto es neutro
+- contribución y autoridad están separadas. ejemplo: en vez de "yo puse el servidor así que decido cómo va a ser la iniciativa que lo usa a pesar de no formar parte de él" va a ser "ofrezco un servidor si puedo liderar / decidir sobre la iniciativa" y esa es una oferta que podemos elegir si aceptar o no
+- una contribución no puede alterar los sistemas de confianza, autoridad o políticas de la organización por su cuenta. todo es negociado y puede ser rechazado porque muchos de estos recursos van a estar sujetos a contratos
+- en caso de excepciones: puede haber un plan B expreso en la oferta (avisar o consultar a quien contribuye de todas formas si se lo ve prudente) o puede haber un plan B predeterminado
+    - plan b predeterminado
+        - alcanzar a quien contribuye para preguntarle qué hacer
+        - si no funciona, esperar y seguir intentando
+        - si no se puede alcanzar a quien contribuye en mucho tiempo, probablemente quede en manos de quien administra los recursos, quien probablemente lo haga contribución de uso libre
+    - esto puede ser necesario si, por ejemplo:
+        - hay más dinero que el que una iniciativa necesita y sobra
+        - una iniciativa se abandona
+        - una iniciativa cambia y ya no califica una contribución según sus condiciones
+        - no está contemplado algo
+- la parte de las negociaciones y el aceptar / rechazar ofertas de contribuciones es un aspecto separado de este sistema
+
+campos
+- etiquetas (pueden haber varias)
+    - dinero
+    - software
+    - producto físico (incluye hardware informático)
+    - servicio
+    - infraestructura (espacio de almacenamiento digital, capacidad de cómputo, de red van acá)
+    - trabajo
+    - información
+    - conocimiento / experiencia
+    - asesoramiento
+    - contenido
+    - transporte
+    - espacio físico
+    - trabajo creativo
+    - materiales / insumos
+    - acceso
+    - licencia / derechos de uso
+    - otro: (especificar)
+- propiedad (quién es el dueño de este recurso?)
+    - SC
+    - ajeno (persona / organización externa, especificar)
+    - compartido / propiedad conjunta (especificar)
+    - nadie / no aplica
+- control (quién tiene control de este recurso? por ejemplo, quién tiene el servidor en su casa)
+    - SC
+    - ajeno (persona / organización externa, especificar)
+    - compartido / control conjunto (especificar)
+    - nadie / no aplica
+- operación (quién decide qué le ocurre a este recurso)
+    - SC
+    - iniciativa
+    - uso interno de la organización
+    - persona
+    - quien sea que administra los recursos
+- estado (uno de éstos + detalle en el otro campo si se quiere)
+    - disponible
+    - no disponible
+    - condicional
+    - no aplica
+    - indeterminado
+- estado-detalle
+    - condiciones de quién da la contribución condicional si es tal
+    - destino, condiciones, tipo de compromiso, plan de respaldo (que puede simplemente ser consultar a quien contribuye), tipo de transferencia
+    - por qué no está disponible
+    - por qué no aplica o es indeterminado el estado
