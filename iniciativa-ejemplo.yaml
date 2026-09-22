@@ -2,14 +2,10 @@ detalle: "detalles de la iniciativa"
 
 estado: "propuesto"
 
-destinatarios:
-  - "miembros de sc"
-  - "público"
-
-modelo-economico: "no comercial"
-
-origen: "comunidad"
-
 etiquetas:
   - "software"
   - "servicio"
+
+sub-iniciativas:
+  - "sub-iniciativa A"
+  - "sub-iniciativa B"
