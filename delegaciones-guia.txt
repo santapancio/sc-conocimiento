@@ -15,6 +15,7 @@ cómo funcionan las delegaciones:
 - una persona asignada a una delegación sólo debe actuar en función de lo que delimita la misma
 - mientras cada archivo tenga un nombre único, la estructura de carpetas puede ser como uno quiera
     - recomendamos usar una estructura de carpetas para este sistema y no tener todo en un solo directorio, ya que esta estructura es naturalmente jerárquica
+- pueden haber varias personas en el campo de personas-asignadas - en ese caso, la primera persona es la persona primaria
 
 estructura de delegaciones de ejemplo:
 
