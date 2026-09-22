@@ -1,7 +1,7 @@
 sistema de recursos:
 - cada objeto es un recurso del que dispone la organización
 - pueden haber condiciones respecto al uso de estos recursos
-- propiedad, control y operación son tres conceptos diferentes
+- propiedad, control y operación son cosas distintas. está explicado abajo
 - trabajo pago no es contribución, ya que el valor neto es neutro
 - contribución y autoridad están separadas. ejemplo: en vez de "yo puse el servidor así que decido cómo va a ser la iniciativa que lo usa a pesar de no formar parte de él" va a ser "ofrezco un servidor si puedo liderar / decidir sobre la iniciativa" y esa es una oferta que podemos elegir si aceptar o no
 - una contribución no puede alterar los sistemas de confianza, autoridad o políticas de la organización por su cuenta. todo es negociado y puede ser rechazado porque muchos de estos recursos van a estar sujetos a contratos
@@ -47,7 +47,6 @@ campos
     - compartido / control conjunto (especificar)
     - nadie / no aplica
 - operación (quién decide qué le ocurre a este recurso)
-    - SC
     - iniciativa
     - uso interno de la organización
     - persona
