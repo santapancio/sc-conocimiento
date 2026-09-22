@@ -3,10 +3,8 @@ responsabilidades:
   - "responsabilidad 2"
 
 personas-asignadas:
-  primaria: "[[persona-ejemplo1]]"
-  secundarias:
-    - "[[persona-ejemplo2]]"
-    - "[[persona-ejemplo3]]"
+  - "persona 1"
+  - "persona 2"
 
 delegaciones:
   - "[[delegacion 1]]"
