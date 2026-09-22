@@ -10,7 +10,7 @@ operacion: "quien sea que administra los recursos"
 
 estado: "condicional"
 
-estado-detalle: "La contribución está disponible en principio, pero cada solicitud debe ser consultada con Santa y aceptada individualmente. Esta disposición no constituye un compromiso de realizar cualquier trabajo solicitado. El alcance, prioridad, disponibilidad y condiciones de cada contribución quedan sujetos a decisión individual."
+estado-detalle: "La contribución está disponible en principio, pero cada solicitud debe ser consultada con Santa y aceptada individualmente. Esta disposición no constituye un compromiso de realizar cualquier trabajo solicitado. El alcance, prioridad, disponibilidad y condiciones de cada contribución quedan sujetos a decisión individual - lo más adecuado sería crear una nueva entrada de recurso cuando se acuerde algo"
 
 etiquetas:
   - "trabajo"
