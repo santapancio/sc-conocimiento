@@ -1,12 +1,15 @@
 detalle: >
   Wiki pequeña de Rentry
-  Anterior el resideño
+  Anterior al rediseño
   Actualmente muy desactualizada
 
-estado: "completado: operando (requiere actualización)"
+estado: "completado: operando"
 
 etiquetas:
-  - ""
+  - "servicio"
+  - "infraestructura"
+  - "información"
+  - "contenido"
 
 sub-iniciativas:
   - ""
