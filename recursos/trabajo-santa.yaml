@@ -1,0 +1,16 @@
+recurso: "Trabajo de Santa"
+
+detalle: "Santa está dispuesto a contribuir trabajo a SC, incluyendo trabajo administrativo y trabajo relacionado con las delegaciones que tiene asignadas. La disponibilidad concreta, el alcance y las condiciones de cada trabajo se deciden caso por caso."
+
+propiedad: "no aplica"
+
+control: "SC"
+
+operacion: "quien sea que administra los recursos"
+
+estado: "condicional"
+
+estado-detalle: "La contribución está disponible en principio, pero cada solicitud debe ser consultada con Santa y aceptada individualmente. Esta disposición no constituye un compromiso de realizar cualquier trabajo solicitado. El alcance, prioridad, disponibilidad y condiciones de cada contribución quedan sujetos a decisión individual."
+
+etiquetas:
+  - "trabajo"

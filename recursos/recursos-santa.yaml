@@ -1,0 +1,17 @@
+recurso: "Recursos personales de Santa"
+
+detalle: "Santa está dispuesto a considerar la contribución temporal o permanente de hardware y otros recursos personales para apoyar a SC, incluyendo recursos que ya posee y, en algunos casos, recursos que podría adquirir específicamente para el propósito."
+
+propiedad: "ajeno ([[Santa]])"
+
+control: "ajeno ([[Santa]])"
+
+operacion: "quien sea que administra los recursos"
+
+estado: "condicional"
+
+estado-detalle: "Cada recurso concreto y cada uso deben ser consultados con Santa y aceptados individualmente. La disposición general a contribuir no constituye un compromiso de aportar un recurso determinado, realizar una compra, asumir un gasto, entregar la propiedad del recurso ni mantenerlo disponible durante un período determinado. Las condiciones de cada contribución se decidirán caso por caso."
+
+etiquetas:
+  - "producto físico"
+  - "infraestructura"
