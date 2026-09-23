@@ -1,7 +1,6 @@
 - una iniciativa es una actividad que puede ser llevada a cabo por la organización
 - cada una de ellas puede tener sub-iniciativas, y esas sub-iniciativas pueden tener las suyas también, y así sucesivamente
 - esto está desligado del sistema de delegaciones. eso quiere decir que no necesariamente debe haber una delegación por iniciativa o viceversa. la estructura está hecha para máxima libertad de organización
-- 
 
 ejemplos para llenar los campos:
 - detalle
