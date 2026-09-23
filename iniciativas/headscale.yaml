@@ -1,0 +1,11 @@
+detalle: "servidor de headscale"
+
+estado: "propuesto"
+
+etiquetas:
+  - "software"
+  - "servicio"
+  - "infraestructura"
+
+sub-iniciativas:
+  - ""
