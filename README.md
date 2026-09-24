@@ -22,9 +22,11 @@
 - propiedades de los elementos
     - 1 elemento = 1 archivo con extensión ".yaml"
     - ID de la base de datos = nombre de archivo = nombre del elemento. un identificador, tres propósitos
-        - deben ser nombres legibles y entendibles
-        - se escriben en minúscula y sin espacios
-        - usan guiones para separar palabras
+        - en cualquier parte de esta guía esas tres palabras son intercambiables
+        - requisitos
+            - deben ser nombres legibles y entendibles
+            - se escriben en minúscula y sin espacios
+            - usan guiones para separar palabras
         - ejemplo: "servidor-principal.yaml"
     - no puede haber dos elementos con el mismo ID en toda la base de datos entera
 
