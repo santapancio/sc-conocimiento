@@ -20,7 +20,7 @@ detalle: "detalles aaaaaaaaaa"
 # La primera persona de esta lista es la persona primaria
 #
 # delegaciones:
-# Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en la base de datos
+# Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
 #
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
