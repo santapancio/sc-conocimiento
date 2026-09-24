@@ -1,4 +1,4 @@
-detalle: "detalles de la iniciativa"
+detalle: "detalles aaaaaaaaaaaaaaaaa"
 
 estado: "propuesto"
 
@@ -9,8 +9,8 @@ etiquetas:
   - "servicio"
 
 sub-iniciativas:
-  - "[[sub-iniciativa A]]"
-  - "[[sub-iniciativa B]]"
+  - "comentario de ejemplo: [[sub-iniciativa 1]]"
+  - "[[sub-iniciativa 2]]"
 
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
