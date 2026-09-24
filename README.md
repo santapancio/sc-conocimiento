@@ -68,6 +68,8 @@
     - aún así puede ser confuso si no están organizados de forma similar, por ejemplo en los sistemas que soportan ambos tipos de anidados. recomendamos que haya estructura
 
 - tener en cuenta: se supone que estos sistemas se conformen a la realidad y no viceversa
+    - la realidad es mucho más compleja e informal que este sistema y no es inteligente intentar evitarlo
+    - sólo queremos que se entienda la organización general más que que sea 100% fiel a la realidad
 
 - en la práctica
     - las guías de cada sistema sirven como referencia para crear nuevos elementos
