@@ -49,4 +49,6 @@ sub-iniciativas:
 #        - otro: (especificar)
 #
 # sub-iniciativas:
-# Enumera las sub-iniciativas que pertenecen a esta iniciativa. Deben ser referencias
+# Enumera las sub-iniciativas que pertenecen a esta iniciativa. Cada item debe contener referencia a la sub-iniciativa en cuestión
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios y pueden eliminarse
