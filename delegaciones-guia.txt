@@ -1,56 +1,38 @@
-cómo funcionan las delegaciones:
+- delegación = responsabilidad = autoridad (en cualquier parte de esta guía estas palabras son intercambiables)
+    - ser otorgado una delegación significa ser DELEGADO a llevar a cabo RESPONSABILIDADES y poseer el derecho a la AUTORIDAD necesaria para hacerlo
 
-- son items individuales en una pirámide
-- hay uno que es el gol principal de lo que se quiere hacer
-    - las delegaciones debajo de eso son fracciones más pequeñas del mismo, y así sucesivamente
-- cada una puede tener a una o más personas asignadas a ella, pero sólo puede haber una persona primaria, cuya única diferencia es tener autoridad final
-- cada persona puede establecer, desde ahí y hacia abajo, la estructura que usan para organizarse con total libertad:
-    - las delegaciones debajo de la suya y cómo se estructuran
-    - las personas asignadas a él
-        - las personas y su trabajo para asignarlos a las delegaciones son recursos en manos del sistema de recursos, y se piden al igual que cualquier otro
-            - por algo recursos humanos se llama recursos humanos y por algo hay una etiqueta de "trabajo" en la taxonomía de recursos
-            - suena deshumanizante, pero es para forzar que haya un contrato expreso entre los que dan su trabajo voluntario y la organización, para evitar que haya malentendidos, abusos o injusticias
-    - es posible crear delegaciones y ponerse a uno mismo a cargo de ellas. es funcionalmente lo mismo que no hacerlo, pero se puede y se recomienda para organizarse
-- una persona asignada a una delegación tiene autoridad final sobre todo lo que está debajo de la misma
-- una persona asignada a una delegación sólo debe actuar en función de lo que delimita la misma
-- mientras cada archivo tenga un nombre único, la estructura de carpetas puede ser como uno quiera
-    - recomendamos usar una estructura de carpetas para este sistema y no tener todo en un solo directorio, ya que esta estructura es naturalmente jerárquica
-- pueden haber varias personas en el campo de personas-asignadas - en ese caso, la primera persona es la persona primaria
-- toda delegación debe elevar los conflictos, dudas, consultas, cambios, peticiones y situaciones excepcionales que la excedan
+- delegar consiste en otorgar una parte de un conjunto de responsabilidades a otra persona que pueda encargarse
+    - cualquier delegación puede crear subdelegaciones para dividir sus responsabilidades, formando una estructura anidada
+        - una subdelegación nunca puede extender la delegación que la contiene
 
-estructura de delegaciones de ejemplo:
+- las personas asignadas a una delegación tienen autoridad final sobre todo aquello que corresponde a su ámbito, incluyendo sus subdelegaciones
+    - "autoridad final" significa que puede imponer su decisión sobre cualquier cosa con libertad
 
-- manejar un restaurante
-    - responsabilidades
-        - mantener el restaurante funcionando y todo lo que eso implica
-        - ganar dinero para mantener el restaurante a flote
-    - personas asignadas
-        - roberto
-    - delegaciones
-        - atender a los clientes
-            - responsabilidades
-                - ir a las mesas y prestar atención al cliente
-                - entregar la comida y cobrar el pago
-                - servicio a la mesa y al cliente en general
-            - personas asignadas
-                - alicia (primaria)
-                - alexander
-                - francisco
-            - delegaciones
-                - atender el mostrador y la barra
-                    - etc etc
-                - atender las mesas (mozo)
-                    - etc etc
-        - cocinar la comida
-            - responsabilidades
-                - hacer que la comida sea preparada y llegue a los clientes
-                - asegurar la limpieza de la cocina
-            - personas asignadas
-                - lautaro (primario)
-                - maría
-            - delegaciones
-                - estación de postres
-                    - responsabilidades
-                        - hacer postres
-                    - personas asignadas
-                        - roberto
+- cada delegación puede tener una o más personas asignadas
+    - sin embargo, sólo puede haber una persona asignada como persona primaria
+        - todos los asignados tienen autoridad final sobre la delegación, sólo que la persona primaria tiene autoridad final sobre las personas secundarias
+
+- una persona puede estar asignada a varias delegaciones
+    - si una persona está en varias delegaciones y se contiene a sí mismo en ellas, las responsabilidades de todas formas deben mantenerse separadas al actuar
+
+- las delegaciones pueden organizarse libremente dentro de su territorio mientras obedezcan la autoridad final y lleven a cabo sus responsabilidades
+    - esto incluye crear, modificar, eliminar y reorganizar delegaciones subordinadas y sus personas asignadas
+    - también significa que la libertad de cada delegación puede ser decidida por una autoridad final, ya que tiene la capacidad de decidir sobre todo
+
+- las delegaciones no necesitan corresponder con otros sistemas
+    - una delegación puede administrar varias iniciativas
+    - una iniciativa puede involucrar varias delegaciones
+    - varias delegaciones pueden utilizar el mismo recurso
+    - estas relaciones se establecen mediante referencias, no mediante la estructura de delegaciones
+
+- una delegación sin persona asignada implica que esas responsabilidades no están siendo llevadas a cabo
+
+- cuando una delegación deja de existir, sus responsabilidades deben resolverse
+    - pueden ser absorbidas, transferidas, divididas, eliminadas, lo que sea
+
+- las delegaciones no necesariamente deben ser permanentes; algunos procesos o trabajos son temporales
+
+- las cuestiones que excedan a una delegación deberían elevarse a la delegación (autoridad final) inmediatamente superior a ella
+    - dudas, conflictos, decisiones que exceden las responsabilidades, excepciones, cualquier cosa que haya duda de decidir
+    - si una cuestión afecta a varias delegaciones subordinadas y no está claro cuál debe resolverla (o en otras excepciones), se deja a criterio propio la delegación más sensata a la que elevar
+    - no se debería inventar autoridad para resolver algo simplemente porque no esté contemplado, puramente para tener respeto por las áreas de los demás
