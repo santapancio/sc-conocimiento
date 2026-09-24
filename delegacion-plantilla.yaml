@@ -7,7 +7,7 @@ personas-asignadas:
   - "persona 2"
 
 subdelegaciones:
-  - "[[delegacion 1]]"
+  - "comentario de ejemplo: [[delegacion 1]]"
   - "[[delegacion 2]]"
 
 detalle: "detalles aaaaaaaaaa"
