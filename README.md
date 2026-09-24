@@ -31,13 +31,15 @@
     - no puede haber dos elementos con el mismo ID en toda la base de datos entera
 
 - propiedades del contenido de los elementos
-    - la sintaxis YAML debe ser respetada
+    - el formato de YAML de los objetos debe ser respetado
+        - los campos que son listas deben seguir siendo listas
+        - los campos que son un sólo string de texto deben seguir siendo tal
+        - la sintaxis YAML debe ser correcta
     - cada sistema tiene su propia taxonomía
         - la taxonomía define qué significa cada campo (por ej. "detalle") y qué corresponde poner en él
-        - las taxonomías de los sistemas se encuentran en sus respectivas guías
         - no se deberían agregar o restar campos en ningún caso
     - la mayoría de los campos son de formato libre
-        - esto significa que no están limitados a una lista de valores / formato predeterminado y el contenido puede tener cualquier forma
+        - esto significa que no están limitados a una lista de valores / formato predeterminado y el contenido puede tener cualquier forma (mientras respete el tipo de objeto YAML requerido)
         - por supuesto, cada campo sigue teniendo un significado y un propósito definido por la taxonomía que debe respetarse
         - si un campo no es de formato libre, estará indicado como "FORMATO ESTRICTO" en la guía de la taxonomía junto con cómo debe llenarse
             - cuando una taxonomía permite "otro", se puede especificar el valor correspondiente de ser adecuado / necesario
