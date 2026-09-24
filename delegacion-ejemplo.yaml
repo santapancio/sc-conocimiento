@@ -1,13 +1,28 @@
 responsabilidades:
-  - "responsabilidad-ejemplo1"
+  - "responsabilidad ejemplo 1"
   - "responsabilidad 2"
 
 personas-asignadas:
   - "persona 1"
   - "persona 2"
 
-delegaciones:
+subdelegaciones:
   - "[[delegacion 1]]"
   - "[[delegacion 2]]"
 
-detalle: "cualquier cosa relevante. pueden hacerse [[referencias]], tal como en la mayoría de los campos"
+detalle: "detalles aaaaaaaaaa"
+
+# responsabilidades:
+# Enumera las responsabilidades de esta delegación
+#
+# personas-asignadas:
+# Enumera a las personas asignadas a esta delegación
+# La primera persona de esta lista es la persona primaria
+#
+# delegaciones:
+# Enumera las subdelegaciones que pertenecen a esta delegación
+#
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios y pueden eliminarse
