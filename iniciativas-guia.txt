@@ -6,7 +6,7 @@
     - la relación entre una iniciativa y sus sub-iniciativas representa una relación de inclusión o composición, no una relación de autoridad
     - una sub-iniciativa sigue siendo una iniciativa exactamente igual a las demás en lo que la base de datos incumbe
 
-- toda autoridad sobre este sistema recae sobre el sistema de delegaciones, que decide quién tiene la autoridad para administrarlo
+- la autoridad sobre este sistema recae sobre el sistema de delegaciones, que decide quién tiene la autoridad para administrar tanto el sistema en sí como las iniciativas que contiene
 
 - las iniciativas no están estrictamente ligadas a delegaciones
     - una iniciativa puede existir sin que haya una delegación dedicada a ella
