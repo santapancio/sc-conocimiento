@@ -67,6 +67,9 @@
     - el anidado de los elementos en la base de datos no está ligado a u obligado a seguir el de los directorios, y puede hacerse como se desee
     - aún así puede ser confuso si no están organizados de forma similar, por ejemplo en los sistemas que soportan ambos tipos de anidados. recomendamos que haya estructura
 
+- los sistemas no necesitan formalizar todas sus interacciones
+    - cada sistema registra los hechos que le corresponden y las relaciones relevantes deberían poder expresarse mediante referencias entre elementos
+
 - tener en cuenta: se supone que estos sistemas se conformen a la realidad y no viceversa
     - la realidad es mucho más compleja e informal que este sistema y no es inteligente intentar evitarlo
     - sólo queremos que se entienda la organización general más que que sea 100% fiel a la realidad
