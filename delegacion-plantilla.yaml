@@ -25,4 +25,4 @@ subdelegaciones:
 # subdelegaciones:
 # Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
 #
-# Estos renglones de comentario (que empiezan con "#") no son necesarios y pueden eliminarse
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
