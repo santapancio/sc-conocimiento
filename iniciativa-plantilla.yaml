@@ -2,8 +2,6 @@ detalle: "detalles aaaaaaaaaaaaaaaaa"
 
 estado: "propuesto"
 
-estado-detalle: "tenemos otras cosas más importantes a las que darles prioridad"
-
 etiquetas:
   - "software"
   - "servicio"
@@ -29,8 +27,6 @@ sub-iniciativas:
 #     - completado (para cosas que se hacen una vez, por ejemplo)
 #     - no aplica (de alguna manera, ni idea)
 # 
-# estado-detalle:
-# Campo de formato libre donde se puede aclarar la razón del estado de la iniciativa
 #
 # (FORMATO ESTRICTO) etiquetas:
 # Describen la naturaleza de la iniciativa. No necesitan muchísima precisión, son para hacer más fácil la administración
