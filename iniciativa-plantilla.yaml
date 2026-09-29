@@ -51,4 +51,4 @@ sub-iniciativas:
 # sub-iniciativas:
 # Enumera las sub-iniciativas que pertenecen a esta iniciativa. Cada item debe contener referencia a la sub-iniciativa en cuestión
 #
-# Estos renglones de comentario (que empiezan con "#") no son necesarios y pueden eliminarse
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
