@@ -15,14 +15,14 @@ subdelegaciones:
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
 #
+# responsabilidades:
+# Enumera las responsabilidades de esta delegación
+#
 # personas-asignadas:
 # Enumera a las personas asignadas a esta delegación
 # La primera persona de esta lista es la persona primaria
 #
-# delegaciones:
+# subdelegaciones:
 # Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
-#
-# responsabilidades:
-# Enumera las responsabilidades de esta delegación
 #
 # Estos renglones de comentario (que empiezan con "#") no son necesarios y pueden eliminarse
