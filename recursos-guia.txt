@@ -1,64 +1,48 @@
-sistema de recursos:
-- cada objeto es un recurso del que dispone la organización
-- pueden haber condiciones respecto al uso de estos recursos
-- propiedad, control y operación son cosas distintas. está explicado abajo
-- trabajo pago no es contribución, ya que el valor neto es neutro
-- contribución y autoridad están separadas. ejemplo: en vez de "yo puse el servidor así que decido cómo va a ser la iniciativa que lo usa a pesar de no formar parte de él" va a ser "ofrezco un servidor si puedo liderar / decidir sobre la iniciativa" y esa es una oferta que podemos elegir si aceptar o no
-- una contribución no puede alterar los sistemas de confianza, autoridad o políticas de la organización por su cuenta. todo es negociado y puede ser rechazado porque muchos de estos recursos van a estar sujetos a contratos
-- en caso de excepciones: puede haber un plan B expreso en la oferta (avisar o consultar a quien contribuye de todas formas si se lo ve prudente) o puede haber un plan B predeterminado
-    - plan b predeterminado
-        - alcanzar a quien contribuye para preguntarle qué hacer
-        - si no funciona, esperar y seguir intentando
-        - si no se puede alcanzar a quien contribuye en mucho tiempo, probablemente quede en manos de quien administra los recursos, quien probablemente lo haga contribución de uso libre
-    - esto puede ser necesario si, por ejemplo:
-        - hay más dinero que el que una iniciativa necesita y sobra
-        - una iniciativa se abandona
-        - una iniciativa cambia y ya no califica una contribución según sus condiciones
-        - no está contemplado algo
-- la parte de las negociaciones y el aceptar / rechazar ofertas de contribuciones es un aspecto separado de este sistema
+- el sistema de recursos registra qué recursos existen, cuál es su situación y cómo están siendo utilizados o puestos a disposición de la organización
 
-campos
-- etiquetas (pueden haber varias. en este campo, no usar otra cosa que no sea alguna de éstas)
-    - dinero
-    - software
-    - producto físico (incluye hardware informático)
-    - servicio
-    - infraestructura (espacio de almacenamiento digital, capacidad de cómputo, de red van acá)
-    - trabajo
-    - información
-    - conocimiento / experiencia
-    - asesoramiento
-    - contenido
-    - transporte
-    - espacio físico
-    - trabajo creativo
-    - materiales / insumos
-    - acceso
-    - licencia / derechos de uso
-    - otro: (especificar)
-- propiedad (quién es el dueño de este recurso?)
-    - SC
-    - ajeno (persona / organización externa, especificar)
-    - compartido / propiedad conjunta (especificar)
-    - nadie / no aplica
-- control (quién tiene control de este recurso? por ejemplo, quién tiene el servidor en su casa)
-    - SC
-    - ajeno (persona / organización externa, especificar)
-    - compartido / control conjunto (especificar)
-    - nadie / no aplica
-- operación (quién decide qué le ocurre a este recurso)
-    - iniciativa
-    - uso interno de la organización
-    - persona
-    - quien sea que administra los recursos
-- estado (uno de éstos + detalle en el otro campo si se quiere)
-    - disponible
-    - no disponible
-    - condicional
-    - no aplica
-    - indeterminado
-- estado-detalle
-    - condiciones de quién da la contribución condicional si es tal
-    - destino, condiciones, tipo de compromiso, plan de respaldo (que puede simplemente ser consultar a quien contribuye), tipo de transferencia
-    - por qué no está disponible
-    - por qué no aplica o es indeterminado el estado
+- un recurso es algo de lo que la organización dispone o que puede tener disponible para sus actividades
+    - un recurso puede tener distintos estados, o incluso estar sujeto a condiciones
+        - estas condiciones pueden ser cualquier cosa
+    - un recurso puede pertenecer a SC, a otra persona u organización, ser compartido o no tener propietario aplicable
+
+- los recursos pueden cambiar de estado a lo largo del tiempo
+    - pueden pasar a estar disponibles o no disponibles
+    - pueden cambiar de propietario o de controlador
+    - pueden ser asignados a una operación diferente
+    - pueden dejar de existir
+    - pueden ser transferidos, consumidos, modificados, reemplazados o incorporados a otros recursos
+    - estos cambios deben reflejarse en el registro cuando sean relevantes
+
+- el sistema de recursos no determina por sí mismo la autoridad de las personas sobre los recursos; eso corresponde al sistema de delegaciones, al igual que toda autoridad
+
+- propiedad, control y operación / asignación son conceptos distintos (ver la plantilla)
+
+- un recurso no necesariamente es permanente
+    - puede ser temporal
+    - puede existir únicamente para una iniciativa o actividad concreta
+
+- contribución y autoridad están separadas
+    - "yo puse el servidor así que decido cómo va a ser la iniciativa que lo usa a pesar de no formar parte de ella" no es aceptable, pero sí "ofrezco un servidor si puedo liderar o decidir X sobre la iniciativa"; la condición forma parte de la oferta y la organización puede aceptarla o rechazarla
+
+- si una contribución queda sin una utilización clara o deja de poder utilizarse según sus condiciones, se debe recurrir a las condiciones acordadas para resolver la situación
+    - puede existir un plan de respaldo establecido previamente
+    - si no existe, se puede consultar a quien contribuyó
+    - si no es posible contactarlo durante un período considerable, la resolución puede quedar en manos de quien corresponda administrar el recurso
+    - esto puede ser necesario si, por ejemplo:
+        - hay más recurso X que el que una iniciativa necesita y sobra
+        - una iniciativa se abandona
+        - una iniciativa cambia y ya no califica para una contribución según sus condiciones
+        - un recurso deja de estar disponible
+        - una contribución estaba destinada a algo que ya no existe
+        - no está contemplada una situación determinada
+
+- los recursos no necesitan corresponder con otros sistemas
+    - un recurso puede ser utilizado por varias iniciativas
+    - una iniciativa puede utilizar varios recursos
+    - una delegación puede operar varios recursos
+    - varias delegaciones pueden utilizar el mismo recurso
+    - una persona puede contribuir varios recursos
+    - estas relaciones se establecen mediante referencias y mediante la realidad de cómo se utilizan los recursos
+
+- la negociación, planteo, aceptación y rechazo de ofertas / contratos de recursos son aspectos separados de este sistema
+    - este sistema registra el resultado relevante de esas decisiones cuando corresponda
