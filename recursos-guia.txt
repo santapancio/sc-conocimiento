@@ -11,7 +11,7 @@
     - pueden ser asignados a una operación diferente
     - pueden dejar de existir
     - pueden ser transferidos, consumidos, modificados, reemplazados o incorporados a otros recursos
-    - estos cambios deben reflejarse en el registro cuando sean relevantes
+    - estos cambios deben reflejarse en el sistema cuando sean relevantes
 
 - el sistema de recursos no determina por sí mismo la autoridad de las personas sobre los recursos; eso corresponde al sistema de delegaciones, al igual que toda autoridad
 
