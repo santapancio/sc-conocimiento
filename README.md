@@ -69,10 +69,11 @@
 
 - los sistemas no necesitan formalizar todas sus interacciones
     - cada sistema registra los hechos que le corresponden y las relaciones relevantes deberían poder expresarse mediante referencias entre elementos
+    - las interacciones entre sistemas son más que nada informales, y luego se ven reflejadas en los datos
 
 - tener en cuenta: se supone que estos sistemas se conformen a la realidad y no viceversa
     - la realidad es mucho más compleja e informal que este sistema y no es inteligente intentar evitarlo
-    - sólo queremos que se entienda la organización general más que que sea 100% fiel a la realidad
+    - el objetivo de esta base de datos entera es poder mantener una visión estratégica de la organización al escalar sus actividades
 
 - en la práctica
     - las guías de cada sistema sirven como referencia para crear nuevos elementos
