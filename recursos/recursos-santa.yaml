@@ -1,17 +1,61 @@
-recurso: "Recursos personales de Santa"
-
-detalle: "Santa está dispuesto a considerar la contribución temporal o permanente de hardware y otros recursos personales para apoyar a SC, incluyendo recursos que ya posee y, en algunos casos, recursos que podría adquirir específicamente para el propósito."
-
-propiedad: "ajeno ([[Santa]])"
-
-control: "ajeno ([[Santa]])"
-
-operacion: "quien sea que administra los recursos"
+detalle: >
+  Recursos personales de Santa, como objetos, dinero, etc
+  Condición de uso: recurso condicional, representa una intención de colaborar. Consultar a Santa por los términos de cada uso - hacer un contrato / acuerdo
 
 estado: "condicional"
 
-estado-detalle: "Cada recurso concreto y cada uso deben ser consultados con Santa y aceptados individualmente. La disposición general a contribuir no constituye un compromiso de aportar un recurso determinado, realizar una compra, asumir un gasto, entregar la propiedad del recurso ni mantenerlo disponible durante un período determinado. Las condiciones de cada contribución se decidirán caso por caso - lo más adecuado sería crear una nueva entrada de recurso cuando se acuerde algo"
+propiedad: "Santa"
+
+control: "Santa"
+
+operacion-asignacion: ""
 
 etiquetas:
   - "producto físico"
   - "infraestructura"
+  - "dinero"
+
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
+#
+# (FORMATO ESTRICTO) estado:
+# Describe el estado actual del recurso
+# Lista de estados posibles
+#    - disponible
+#    - no disponible
+#    - condicional
+#    - no aplica
+#    - indeterminado
+#
+# propiedad:
+# Describe quién es el dueño establecido de este recurso
+#
+# control:
+# Describe quién tiene el control práctico sobre el recurso. Por ejemplo, acceso / custodia física
+#
+# operacion-asignacion:
+# El contenido describe, cuando se le da autoridad a este campo, quién decide qué ocurre con este recurso
+# Este campo no establece autoridad sobre un recurso por su cuenta - toda autoridad es definida por el sistema de delegaciones, que decide cómo la autoridad se relaciona con este campo
+# Vacío = sin asignar / operar por medio de este campo
+#
+# (FORMATO ESTRICTO) etiquetas:
+# Describen la naturaleza del recurso. No necesitan muchísima precisión, son para hacer más fácil la administración
+# Lista de etiquetas
+#    - dinero
+#    - software
+#    - producto físico (incluye hardware informático)
+#    - servicio
+#    - infraestructura (espacio de almacenamiento digital, capacidad de cómputo, de red van acá)
+#    - trabajo
+#    - información
+#    - conocimiento / experiencia
+#    - asesoramiento
+#    - contenido
+#    - espacio físico
+#    - trabajo creativo
+#    - materiales / insumos
+#    - acceso
+#    - licencia / derechos de uso
+#    - otro: (especificar)
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
