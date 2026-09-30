@@ -26,6 +26,7 @@
     - estas relaciones se establecen mediante referencias, no mediante la estructura de delegaciones
 
 - una delegación sin persona asignada implica que esas responsabilidades no están siendo llevadas a cabo
+    - la ausencia de una delegación para algo implica que ese algo está siendo llevado a cabo por la delegación donde pertenecería
 
 - cuando una delegación deja de existir, sus responsabilidades deben resolverse
     - pueden ser absorbidas, transferidas, divididas, eliminadas, lo que sea
@@ -36,3 +37,8 @@
     - dudas, conflictos, decisiones que exceden las responsabilidades, excepciones, cualquier cosa que haya duda de decidir
     - si una cuestión afecta a varias delegaciones subordinadas y no está claro cuál debe resolverla (o en otras excepciones), se deja a criterio propio la delegación más sensata a la que elevar
     - no se debería inventar autoridad para resolver algo simplemente porque no esté contemplado, puramente para tener respeto por las áreas de los demás
+
+- el único objetivo de una delegación es cumplir sus responsabilidades. esto también implica, de ser necesario:
+    - mantener el funcionamiento de sus subdelegaciones
+    - resolver problemas y excepciones que superen a sus subdelegaciones
+    - encargarse de las áreas de las responsabilidades que no hayan sido delegadas
